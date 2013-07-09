@@ -4,6 +4,6 @@
 int main(int argc, char** argv)
 {
     GameControler game = GameControler();
-    printf("start");
+    game.launchGame();
     return 1;
 }

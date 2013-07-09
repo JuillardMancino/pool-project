@@ -2,11 +2,12 @@
 #define GRAPICVIEW_H
 
 
-class GrapicView
+class GraphicView
 {
     public:
-        GrapicView();
-        ~GrapicView();
+        GraphicView();
+        ~GraphicView();
+        void LaunchView();
     protected:
     private:
 };
