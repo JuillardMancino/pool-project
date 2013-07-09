@@ -1,4 +1,4 @@
-#include "GameControler.h"
+#include "include/GameControler.h"
 
 GameControler::GameControler()
 {

@@ -1,5 +1,9 @@
+#include <stdio.h>
+#include "include/GameControler.h"
+
 int main(int argc, char** argv)
 {
-
-    return 0;
+    GameControler game = GameControler();
+    printf("start");
+    return 1;
 }
